@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="@dimen/TobBarItem"
+    android:height="@dimen/TobBarItem"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+  <path
+      android:pathData="M21,36C21,39.313 18.313,42 15,42C11.687,42 9,39.313 9,36C9,32.686 11.687,30 15,30C18.313,30 21,32.686 21,36ZM36,30C39.313,30 42,32.686 42,36C42,39.313 39.313,42 36,42C32.687,42 30,39.313 30,36C30,32.686 32.687,30 36,30ZM57,30C60.313,30 63,32.686 63,36C63,39.313 60.313,42 57,42C53.687,42 51,39.313 51,36C51,32.686 53.687,30 57,30Z"
+      android:strokeWidth="1"
+      android:fillColor="#000000"
+      android:fillType="evenOdd"
+      android:strokeColor="#00000000"/>
+</vector>
